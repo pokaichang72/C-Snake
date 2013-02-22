@@ -160,6 +160,7 @@ int main() {
 		}
 	}
 	
+	Sleep(1000);
 	system("PAUSE");
 	return 0;
 }
