@@ -69,7 +69,7 @@ int main() {
 	int head_x=2, head_y=1, rand_x, rand_y;
 	srand(time(NULL));
 	
-	printf("Snake\n\nUse arrow keys (up, down, left, right) to control.\n\nPress \"e\" to exit.\n");
+	printf("\n Snake\n ==========\n\n - Use arrow keys (up, down, left, right) to control.\n - Press \"e\" to exit.\n\n");
 	system("PAUSE");
 	while (1) {
 		move = 0; //if move
