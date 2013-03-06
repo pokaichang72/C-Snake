@@ -1,4 +1,4 @@
 C-Snake
 =======
 
-A snake game (?) written in C and only runs on windows.
+A snake game (?) written in C Language and only runs on windows.
